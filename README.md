@@ -1,4 +1,4 @@
-# SO_Project-Simulators
+# SO_Project-Race_Simulator
 - [ ] Finished
 
 ## Description
